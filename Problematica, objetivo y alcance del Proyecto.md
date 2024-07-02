@@ -1,4 +1,5 @@
 # Problemática
+En la ciudad de Buenos Aires se puede observar distintos tipos de contaminación, una de las principales es la contaminación del aire, etc., los vehículos automóviles forman parte de este problema debido a que su uso tiene un impacto en el ambiente, y los ciudadanos que desean cambiar su estilo de vida no tienen un fácil acceso a la información necesaria para poder elegir alternativas sustentables a la hora de transportarse
 
 
 # Objetivo del Proyecto
