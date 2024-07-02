@@ -1,4 +1,4 @@
-PROYECTO DE CONCENTRAZACIÓN 
+PROYECTO DE CONCIENTIZACIÓN 
 MOVILIDAD SUSTENTABLE
 
 Nuestro proyecto va a tratar de dar soluciones a problemáticas ambientales con objetivos de desarrollo sustentable. 
