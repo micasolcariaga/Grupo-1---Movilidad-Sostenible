@@ -38,4 +38,8 @@ sugerencias sobre la movilidad en la ciudad (foro)
 
 # Público Objetivo
 Nuestro público objetivo en el Área Metropolitana de Buenos Aires abarca un amplio rango de edades, desde jóvenes hasta adultos mayores, unidos por un objetivo común: mejorar el medio ambiente y elevar su calidad de vida. Estos individuos están motivados por la conciencia ecológica y el deseo de crear un futuro más sostenible para las próximas generaciones. Están dispuestos a participar activamente en iniciativas ambientales, como el reciclaje, el uso de transporte sostenible y la conservación de espacios verdes. Su compromiso con el bienestar del planeta los impulsa a buscar soluciones innovadoras y prácticas que puedan implementar en su vida cotidiana, contribuyendo así a un entorno más saludable y equilibrado para todos.
-o Feedback usuario-pagina
+
+# SOLUCIÓN
+Proponemos crear una página web diseñada para los habitantes del Área Metropolitana de Buenos Aires, abarcando desde jóvenes hasta adultos mayores, con el objetivo de promover un estilo de vida más sostenible y mejorar su calidad de vida. El usuario va a encontrar
+información útil acerca de las alternativas de transporte sustentables y otras actividades. 
+
