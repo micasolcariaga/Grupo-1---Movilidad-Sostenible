@@ -1,6 +1,5 @@
 # Problemática
 
-# Alcance
 
 # Objetivo del Proyecto
 La realización de una pagina web de movilidad sostenible, la cual puede ayudar a los
@@ -35,4 +34,8 @@ choques, tal cual a waze)
 -  Comunidades:
 o Espacios para que los usuarios compartan sus experiencias y
 sugerencias sobre la movilidad en la ciudad (foro)
+
+
+# P{UBLICO OBJETIVO
+Nuestro público objetivo en el Área Metropolitana de Buenos Aires abarca un amplio rango de edades, desde jóvenes hasta adultos mayores, unidos por un objetivo común: mejorar el medio ambiente y elevar su calidad de vida. Estos individuos están motivados por la conciencia ecológica y el deseo de crear un futuro más sostenible para las próximas generaciones. Están dispuestos a participar activamente en iniciativas ambientales, como el reciclaje, el uso de transporte sostenible y la conservación de espacios verdes. Su compromiso con el bienestar del planeta los impulsa a buscar soluciones innovadoras y prácticas que puedan implementar en su vida cotidiana, contribuyendo así a un entorno más saludable y equilibrado para todos.
 o Feedback usuario-pagina
